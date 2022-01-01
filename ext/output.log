@@ -1,0 +1,296 @@
+2021-12-30 22:18:55 ====================================
+2021-12-30 22:18:55 Alarm Server Starting...
+2021-12-30 22:18:55 Currently Supporting Envisalink 2DS/3/4 only
+2021-12-30 22:18:55 Tested on a DSC PC1616 + EVL-3
+2021-12-30 22:18:55 and on a DSC PC1832 + EVL-2DS
+2021-12-30 22:18:55 and on a DSC PC1832 v4.6 + EVL-4
+2021-12-30 22:18:55 and on a DSC PC1864 v4.6 + EVL-3
+2021-12-30 22:18:55 and on a DSC PC1864 v4.6 + EVL-4
+2021-12-30 22:18:55 ====================================
+2021-12-30 22:18:55 Connected to 192.168.1.50:4025
+2021-12-30 22:18:55 RX < 505 - 3 - Login Interaction
+2021-12-30 22:18:55 TX > 005user54
+2021-12-30 22:18:55 RX < 500 - 005 - Command Acknowledge
+2021-12-30 22:18:55 RX < 505 - 1 - Login Interaction
+2021-12-30 22:18:55 TX > 00191
+2021-12-30 22:18:55 RX < 500 - 001 - Command Acknowledge
+2021-12-30 22:18:55 RX < 610 - 001 - Zone DSC-Master Bedroom Motion Restored
+2021-12-30 22:18:55 RX < 610 - 002 - Zone DSC-Foyer Motion Restored
+2021-12-30 22:18:56 RX < 610 - 003 - Zone DSC-Upstairs Motion Restored
+2021-12-30 22:18:56 RX < 610 - 004 - Zone DSC-Basement Motion Restored
+2021-12-30 22:18:56 Incoming web connection from ('127.0.0.1', 49284)
+2021-12-30 22:18:56 Web request: GET /api?{}
+2021-12-30 22:18:56 RX < 610 - 005 - Zone DSC-Master Bedroom Glass Restored
+2021-12-30 22:18:56 Incoming web connection from ('127.0.0.1', 49285)
+2021-12-30 22:18:56 RX < 610 - 006 - Zone 006 Restored
+2021-12-30 22:18:56 RX < 610 - 007 - Zone 007 Restored
+2021-12-30 22:18:56 RX < 610 - 008 - Zone DSC-Sump Pump Restored
+2021-12-30 22:18:57 RX < 610 - 009 - Zone DSC-Small Garage Door Restored
+2021-12-30 22:18:57 RX < 610 - 010 - Zone DSC-Garage Entry Door Restored
+2021-12-30 22:18:57 RX < 610 - 011 - Zone DSC-Front Door Restored
+2021-12-30 22:18:57 RX < 610 - 012 - Zone DSC-Dinette Patio Door Restored
+2021-12-30 22:18:58 RX < 610 - 013 - Zone DSC-Master Bedroom Patio Door Restored
+2021-12-30 22:18:58 RX < 610 - 014 - Zone DSC-Graded Entry Door Restored
+2021-12-30 22:18:58 RX < 610 - 015 - Zone DSC-Back Garage Door Restored
+2021-12-30 22:18:58 RX < 610 - 016 - Zone DSC-Large Garage Door Restored
+2021-12-30 22:18:59 RX < 610 - 017 - Zone 017 Restored
+2021-12-30 22:18:59 RX < 610 - 018 - Zone 018 Restored
+2021-12-30 22:18:59 RX < 610 - 019 - Zone 019 Restored
+2021-12-30 22:18:59 RX < 610 - 020 - Zone 020 Restored
+2021-12-30 22:18:59 RX < 610 - 021 - Zone 021 Restored
+2021-12-30 22:18:59 RX < 610 - 022 - Zone 022 Restored
+2021-12-30 22:18:59 RX < 610 - 023 - Zone 023 Restored
+2021-12-30 22:18:59 RX < 610 - 024 - Zone 024 Restored
+2021-12-30 22:18:59 RX < 610 - 025 - Zone 025 Restored
+2021-12-30 22:18:59 RX < 610 - 026 - Zone 026 Restored
+2021-12-30 22:18:59 RX < 610 - 027 - Zone 027 Restored
+2021-12-30 22:18:59 RX < 610 - 028 - Zone 028 Restored
+2021-12-30 22:18:59 RX < 610 - 029 - Zone 029 Restored
+2021-12-30 22:18:59 RX < 610 - 030 - Zone 030 Restored
+2021-12-30 22:18:59 RX < 610 - 031 - Zone 031 Restored
+2021-12-30 22:18:59 RX < 610 - 032 - Zone 032 Restored
+2021-12-30 22:18:59 RX < 610 - 033 - Zone 033 Restored
+2021-12-30 22:18:59 RX < 610 - 034 - Zone 034 Restored
+2021-12-30 22:18:59 RX < 610 - 035 - Zone 035 Restored
+2021-12-30 22:18:59 RX < 610 - 036 - Zone 036 Restored
+2021-12-30 22:18:59 RX < 610 - 037 - Zone 037 Restored
+2021-12-30 22:18:59 RX < 610 - 038 - Zone 038 Restored
+2021-12-30 22:18:59 RX < 610 - 039 - Zone 039 Restored
+2021-12-30 22:18:59 RX < 610 - 040 - Zone 040 Restored
+2021-12-30 22:18:59 RX < 610 - 041 - Zone 041 Restored
+2021-12-30 22:18:59 RX < 610 - 042 - Zone 042 Restored
+2021-12-30 22:18:59 RX < 610 - 043 - Zone 043 Restored
+2021-12-30 22:18:59 RX < 610 - 044 - Zone 044 Restored
+2021-12-30 22:18:59 RX < 610 - 045 - Zone 045 Restored
+2021-12-30 22:18:59 RX < 610 - 046 - Zone 046 Restored
+2021-12-30 22:18:59 RX < 610 - 047 - Zone 047 Restored
+2021-12-30 22:18:59 RX < 610 - 048 - Zone 048 Restored
+2021-12-30 22:18:59 RX < 610 - 049 - Zone 049 Restored
+2021-12-30 22:18:59 RX < 610 - 050 - Zone 050 Restored
+2021-12-30 22:18:59 RX < 610 - 051 - Zone 051 Restored
+2021-12-30 22:18:59 RX < 610 - 052 - Zone 052 Restored
+2021-12-30 22:18:59 RX < 610 - 053 - Zone 053 Restored
+2021-12-30 22:18:59 RX < 610 - 054 - Zone 054 Restored
+2021-12-30 22:18:59 RX < 610 - 055 - Zone 055 Restored
+2021-12-30 22:18:59 RX < 610 - 056 - Zone 056 Restored
+2021-12-30 22:18:59 RX < 610 - 057 - Zone 057 Restored
+2021-12-30 22:18:59 RX < 610 - 058 - Zone 058 Restored
+2021-12-30 22:18:59 RX < 610 - 059 - Zone 059 Restored
+2021-12-30 22:18:59 RX < 610 - 060 - Zone 060 Restored
+2021-12-30 22:18:59 RX < 610 - 061 - Zone 061 Restored
+2021-12-30 22:18:59 RX < 610 - 062 - Zone 062 Restored
+2021-12-30 22:18:59 RX < 610 - 063 - Zone 063 Restored
+2021-12-30 22:18:59 RX < 610 - 064 - Zone 064 Restored
+2021-12-30 22:18:59 RX < 650 - 1 - Partition Home Ready
+2021-12-30 22:18:59 RX < 673 - 2 - Partition 2 is Busy
+2021-12-30 22:18:59 RX < 673 - 3 - Partition 3 is Busy
+2021-12-30 22:18:59 RX < 673 - 4 - Partition 4 is Busy
+2021-12-30 22:18:59 RX < 673 - 5 - Partition 5 is Busy
+2021-12-30 22:18:59 RX < 673 - 6 - Partition 6 is Busy
+2021-12-30 22:18:59 RX < 673 - 7 - Partition 7 is Busy
+2021-12-30 22:18:59 RX < 673 - 8 - Partition 8 is Busy
+2021-12-30 22:18:59 RX < 841 - 1 - Partition Home Trouble LED OFF
+2021-12-30 22:18:59 Web request: GET /
+2021-12-30 22:18:59 RX < 841 - 2 - Partition 2 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 3 - Partition 3 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 4 - Partition 4 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 5 - Partition 5 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 6 - Partition 6 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 7 - Partition 7 Trouble LED OFF
+2021-12-30 22:18:59 RX < 841 - 8 - Partition 8 Trouble LED OFF
+2021-12-30 22:18:59 RX < 510 - 81 - Keypad Led State - Partition 1
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49292)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49293)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49294)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49295)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49296)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49297)
+2021-12-30 22:19:00 Web request: GET /bootstrap.min.css
+2021-12-30 22:19:00 Web request: GET /alertify.core.css
+2021-12-30 22:19:00 Web request: GET /alertify.bootstrap.css
+2021-12-30 22:19:00 Web request: GET /bootstrap-responsive.min.css
+2021-12-30 22:19:00 Web request: GET /jquery.js
+2021-12-30 22:19:00 Web request: GET /alarmserver.js
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49304)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49305)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49306)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49307)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49308)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49309)
+2021-12-30 22:19:00 Web request: GET /bootstrap.min.js
+2021-12-30 22:19:00 Web request: GET /moment.min.js
+2021-12-30 22:19:00 Web request: GET /livestamp.min.js
+2021-12-30 22:19:00 Web request: GET /handlebars.js
+2021-12-30 22:19:00 Web request: GET /fastclick.min.js
+2021-12-30 22:19:00 Web request: GET /alertify.min.js
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49313)
+2021-12-30 22:19:00 Web request: GET /api/config/eventtimeago?{}
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49314)
+2021-12-30 22:19:00 Incoming web connection from ('127.0.0.1', 49315)
+2021-12-30 22:19:00 Web request: GET /api?{}
+2021-12-30 22:19:00 Web request: GET /favicon.ico
+2021-12-30 22:19:01 Incoming web connection from ('127.0.0.1', 49319)
+2021-12-30 22:19:01 Incoming web connection from ('127.0.0.1', 49320)
+2021-12-30 22:19:01 Web request: GET /img/glyphicons-halflings.png
+2021-12-30 22:19:01 Web request: GET /img/glyphicons-halflings-white.png
+2021-12-30 22:19:01 Incoming web connection from ('127.0.0.1', 49321)
+2021-12-30 22:19:05 Web request: GET /api?{}
+2021-12-30 22:19:07 Incoming web connection from ('127.0.0.1', 49324)
+2021-12-30 22:19:07 Web request: GET /api
+2021-12-30 22:19:07 Incoming web connection from ('127.0.0.1', 49325)
+2021-12-30 22:19:10 Web request: GET /api?{}
+2021-12-30 22:19:13 Incoming web connection from ('127.0.0.1', 49328)
+2021-12-30 22:19:13 Web request: GET /logfile
+2021-12-30 22:19:13 No logfile found at: C:\Users\ralph\Repos\DSC-Envisalink-master\alarmserver\output.log
+2021-12-30 22:19:13 Incoming web connection from ('127.0.0.1', 49329)
+2021-12-30 22:19:19 Server interrupted by Ctrl+C.
+2021-12-30 22:19:19 Shutting down server.
+2021-12-30 22:19:19 Error in closing socket
+2021-12-30 22:26:59 ====================================
+2021-12-30 22:26:59 Alarm Server Starting...
+2021-12-30 22:26:59 Currently Supporting Envisalink 2DS/3/4 only
+2021-12-30 22:26:59 Tested on a DSC PC1616 + EVL-3
+2021-12-30 22:26:59 and on a DSC PC1832 + EVL-2DS
+2021-12-30 22:26:59 and on a DSC PC1832 v4.6 + EVL-4
+2021-12-30 22:26:59 and on a DSC PC1864 v4.6 + EVL-3
+2021-12-30 22:26:59 and on a DSC PC1864 v4.6 + EVL-4
+2021-12-30 22:26:59 ====================================
+2021-12-30 22:26:59 Connected to 192.168.1.50:4025
+2021-12-30 22:26:59 RX < 505 - 3 - Login Interaction
+2021-12-30 22:26:59 TX > 005user54
+2021-12-30 22:26:59 RX < 500 - 005 - Command Acknowledge
+2021-12-30 22:26:59 RX < 505 - 1 - Login Interaction
+2021-12-30 22:26:59 TX > 00191
+2021-12-30 22:26:59 RX < 500 - 001 - Command Acknowledge
+2021-12-30 22:26:59 RX < 610 - 001 - Zone DSC-Master Bedroom Motion Restored
+2021-12-30 22:26:59 RX < 610 - 002 - Zone DSC-Foyer Motion Restored
+2021-12-30 22:26:59 RX < 610 - 003 - Zone DSC-Upstairs Motion Restored
+2021-12-30 22:27:00 RX < 610 - 004 - Zone DSC-Basement Motion Restored
+2021-12-30 22:27:00 RX < 610 - 005 - Zone DSC-Master Bedroom Glass Restored
+2021-12-30 22:27:00 RX < 610 - 006 - Zone 006 Restored
+2021-12-30 22:27:00 RX < 610 - 007 - Zone 007 Restored
+2021-12-30 22:27:00 RX < 610 - 008 - Zone DSC-Sump Pump Restored
+2021-12-30 22:27:01 RX < 610 - 009 - Zone DSC-Small Garage Door Restored
+2021-12-30 22:27:01 RX < 610 - 010 - Zone DSC-Garage Entry Door Restored
+2021-12-30 22:27:01 RX < 610 - 011 - Zone DSC-Front Door Restored
+2021-12-30 22:27:01 RX < 610 - 012 - Zone DSC-Dinette Patio Door Restored
+2021-12-30 22:27:02 RX < 610 - 013 - Zone DSC-Master Bedroom Patio Door Restored
+2021-12-30 22:27:02 RX < 610 - 014 - Zone DSC-Graded Entry Door Restored
+2021-12-30 22:27:02 RX < 610 - 015 - Zone DSC-Back Garage Door Restored
+2021-12-30 22:27:02 Incoming web connection from ('127.0.0.1', 50019)
+2021-12-30 22:27:02 Web request: GET /api?{}
+2021-12-30 22:27:02 RX < 610 - 016 - Zone DSC-Large Garage Door Restored
+2021-12-30 22:27:03 Incoming web connection from ('127.0.0.1', 50020)
+2021-12-30 22:27:03 RX < 610 - 017 - Zone 017 Restored
+2021-12-30 22:27:03 RX < 610 - 018 - Zone 018 Restored
+2021-12-30 22:27:03 RX < 610 - 019 - Zone 019 Restored
+2021-12-30 22:27:03 RX < 610 - 020 - Zone 020 Restored
+2021-12-30 22:27:03 RX < 610 - 021 - Zone 021 Restored
+2021-12-30 22:27:03 RX < 610 - 022 - Zone 022 Restored
+2021-12-30 22:27:03 RX < 610 - 023 - Zone 023 Restored
+2021-12-30 22:27:03 RX < 610 - 024 - Zone 024 Restored
+2021-12-30 22:27:03 RX < 610 - 025 - Zone 025 Restored
+2021-12-30 22:27:03 RX < 610 - 026 - Zone 026 Restored
+2021-12-30 22:27:03 RX < 610 - 027 - Zone 027 Restored
+2021-12-30 22:27:03 RX < 610 - 028 - Zone 028 Restored
+2021-12-30 22:27:03 RX < 610 - 029 - Zone 029 Restored
+2021-12-30 22:27:03 RX < 610 - 030 - Zone 030 Restored
+2021-12-30 22:27:03 RX < 610 - 031 - Zone 031 Restored
+2021-12-30 22:27:03 RX < 610 - 032 - Zone 032 Restored
+2021-12-30 22:27:03 RX < 610 - 033 - Zone 033 Restored
+2021-12-30 22:27:03 RX < 610 - 034 - Zone 034 Restored
+2021-12-30 22:27:03 RX < 610 - 035 - Zone 035 Restored
+2021-12-30 22:27:03 RX < 610 - 036 - Zone 036 Restored
+2021-12-30 22:27:03 RX < 610 - 037 - Zone 037 Restored
+2021-12-30 22:27:03 RX < 610 - 038 - Zone 038 Restored
+2021-12-30 22:27:03 RX < 610 - 039 - Zone 039 Restored
+2021-12-30 22:27:03 RX < 610 - 040 - Zone 040 Restored
+2021-12-30 22:27:03 RX < 610 - 041 - Zone 041 Restored
+2021-12-30 22:27:03 RX < 610 - 042 - Zone 042 Restored
+2021-12-30 22:27:03 RX < 610 - 043 - Zone 043 Restored
+2021-12-30 22:27:03 RX < 610 - 044 - Zone 044 Restored
+2021-12-30 22:27:03 RX < 610 - 045 - Zone 045 Restored
+2021-12-30 22:27:03 RX < 610 - 046 - Zone 046 Restored
+2021-12-30 22:27:03 RX < 610 - 047 - Zone 047 Restored
+2021-12-30 22:27:03 RX < 610 - 048 - Zone 048 Restored
+2021-12-30 22:27:03 RX < 610 - 049 - Zone 049 Restored
+2021-12-30 22:27:03 RX < 610 - 050 - Zone 050 Restored
+2021-12-30 22:27:03 RX < 610 - 051 - Zone 051 Restored
+2021-12-30 22:27:03 RX < 610 - 052 - Zone 052 Restored
+2021-12-30 22:27:03 RX < 610 - 053 - Zone 053 Restored
+2021-12-30 22:27:03 RX < 610 - 054 - Zone 054 Restored
+2021-12-30 22:27:03 RX < 610 - 055 - Zone 055 Restored
+2021-12-30 22:27:03 RX < 610 - 056 - Zone 056 Restored
+2021-12-30 22:27:03 RX < 610 - 057 - Zone 057 Restored
+2021-12-30 22:27:03 RX < 610 - 058 - Zone 058 Restored
+2021-12-30 22:27:03 RX < 610 - 059 - Zone 059 Restored
+2021-12-30 22:27:03 RX < 610 - 060 - Zone 060 Restored
+2021-12-30 22:27:03 RX < 610 - 061 - Zone 061 Restored
+2021-12-30 22:27:03 RX < 610 - 062 - Zone 062 Restored
+2021-12-30 22:27:03 RX < 610 - 063 - Zone 063 Restored
+2021-12-30 22:27:03 RX < 610 - 064 - Zone 064 Restored
+2021-12-30 22:27:03 RX < 650 - 1 - Partition Home Ready
+2021-12-30 22:27:03 RX < 673 - 2 - Partition 2 is Busy
+2021-12-30 22:27:03 RX < 673 - 3 - Partition 3 is Busy
+2021-12-30 22:27:03 RX < 673 - 4 - Partition 4 is Busy
+2021-12-30 22:27:03 RX < 673 - 5 - Partition 5 is Busy
+2021-12-30 22:27:03 RX < 673 - 6 - Partition 6 is Busy
+2021-12-30 22:27:03 RX < 673 - 7 - Partition 7 is Busy
+2021-12-30 22:27:03 RX < 673 - 8 - Partition 8 is Busy
+2021-12-30 22:27:03 RX < 841 - 1 - Partition Home Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 2 - Partition 2 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 3 - Partition 3 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 4 - Partition 4 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 5 - Partition 5 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 6 - Partition 6 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 7 - Partition 7 Trouble LED OFF
+2021-12-30 22:27:03 RX < 841 - 8 - Partition 8 Trouble LED OFF
+2021-12-30 22:27:03 RX < 510 - 81 - Keypad Led State - Partition 1
+2021-12-30 22:27:05 Web request: GET /api?{}
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50023)
+2021-12-30 22:27:06 Web request: GET /
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50029)
+2021-12-30 22:27:06 Web request: GET /bootstrap.min.css
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50031)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50032)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50033)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50034)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50035)
+2021-12-30 22:27:06 Web request: GET /alertify.core.css
+2021-12-30 22:27:06 Web request: GET /alertify.bootstrap.css
+2021-12-30 22:27:06 Web request: GET /bootstrap-responsive.min.css
+2021-12-30 22:27:06 Web request: GET /jquery.js
+2021-12-30 22:27:06 Web request: GET /alarmserver.js
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50041)
+2021-12-30 22:27:06 Web request: GET /bootstrap.min.js
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50043)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50044)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50045)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50046)
+2021-12-30 22:27:06 Incoming web connection from ('127.0.0.1', 50047)
+2021-12-30 22:27:06 Web request: GET /moment.min.js
+2021-12-30 22:27:06 Web request: GET /livestamp.min.js
+2021-12-30 22:27:06 Web request: GET /handlebars.js
+2021-12-30 22:27:06 Web request: GET /fastclick.min.js
+2021-12-30 22:27:06 Web request: GET /alertify.min.js
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50050)
+2021-12-30 22:27:07 Web request: GET /api/config/eventtimeago?{}
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50051)
+2021-12-30 22:27:07 Web request: GET /api?{}
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50052)
+2021-12-30 22:27:07 Web request: GET /favicon.ico
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50056)
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50057)
+2021-12-30 22:27:07 Web request: GET /img/glyphicons-halflings.png
+2021-12-30 22:27:07 Web request: GET /img/glyphicons-halflings-white.png
+2021-12-30 22:27:07 Incoming web connection from ('127.0.0.1', 50058)
+2021-12-30 22:27:11 Web request: GET /api?{}
+2021-12-30 22:27:14 Incoming web connection from ('127.0.0.1', 50061)
+2021-12-30 22:27:14 Web request: GET /logfile
+2021-12-30 22:27:14 Showing logfile: C:\Users\ralph\Repos\DSC-Envisalink-master\alarmserver\output.log
+2021-12-30 22:27:14 Incoming web connection from ('127.0.0.1', 50062)
+2021-12-30 22:27:48 Web request: GET /api?{}
+2021-12-30 22:27:51 Incoming web connection from ('127.0.0.1', 50066)
+2021-12-30 22:27:51 Web request: GET /api?{}
+2021-12-30 22:27:52 Incoming web connection from ('127.0.0.1', 50067)
+2021-12-30 22:27:52 Web request: GET /logfile

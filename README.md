@@ -1,7 +1,13 @@
 # DSC-AlarmServer
 Creates web interface to DSC/Envisalink with proxy.
+Since the Envisalink module can only have one connection, this phython script can create a proxy so that multiple connections can be used.
 
-## Quick Setup Instructions:
+See **alarmserver.cfg** file for instructions on customizing.
+
+
+Default web address is http://<server ip address>:8111
+
+## Quick Setup Instructions for Docker:
 
 ### Create docker image:
 >docker build -t alarmserver .

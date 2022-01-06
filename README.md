@@ -5,7 +5,7 @@ Since the Envisalink module can only have one connection, this phython script ca
 See **alarmserver.cfg** file for instructions on customizing.
 
 
-Default web address is http://<server ip address>:8111
+Default web address is http://\<server ip address\>:8111
 
 ## Quick Setup Instructions for Docker:
 

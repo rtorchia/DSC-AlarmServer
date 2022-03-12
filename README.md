@@ -23,10 +23,10 @@ Default web address is http://\<server ip address\>:8111
 >nano alarmserver.cfg
 
 ### 3. Create docker image:
->docker build -t alarmserver .
+>docker build -t alarmserver-slim .
 
 ### 4. Run/Create container:
->docker run -d -p 4025:4025 -p 8111:8111 -e TZ=America/Detroit --restart=always --name alarmserver
+>docker run -d -p 4025:4025 -p 8111:8111 -e TZ=America/Detroit --restart=always --name alarmserver alarmserver-slim
 
 ### To Edit alarmserver.cfg in container:
 >docker exec -u 0 -it alarmserver /bin/bash

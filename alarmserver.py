@@ -191,7 +191,7 @@ class HTTPChannel(asynchat.async_chat):
         self.push(convert_bstr(content,"encoder"))
 
     def pushfile(self, file):
-        self.pushstatus(200, b"OK")
+        self.pushstatus(200, "OK")
         extension = os.path.splitext(file)[1]
         if extension == ".html":
             self.push(b"Content-type: text/html\r\n")

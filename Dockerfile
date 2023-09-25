@@ -3,6 +3,7 @@ RUN apt-get update
 RUN apt-get install -y git
 WORKDIR /alarmserver
 RUN git clone https://github.com/rtorchia/DSC-AlarmServer.git
+RUN apt-get remove -y git
 RUN mkdir /alarmserver/config
 RUN cp -r DSC-AlarmServer/* .
 RUN rm -r DSC-AlarmServer
